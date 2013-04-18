@@ -23,9 +23,9 @@ group :test do
   gem 'capybara', '2.1.0'
   gem 'database_cleaner'
   gem 'factory_girl_rails'
-  gem 'poltergeist'
   gem 'pry'
   gem 'rspec-mocks'
   gem 'shoulda-matchers'
   gem 'timecop'
+  gem 'webmock'
 end
